@@ -1,5 +1,5 @@
 # Requirements
-## Microcontroller
-## One Ultrasonic sensor
-## A stepper motor
-## Buzzer
+### Microcontroller
+### A Ultrasonic sensor(water proof)
+### A stepper motor
+### Buzzer

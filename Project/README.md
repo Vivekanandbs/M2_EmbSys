@@ -1,3 +1,7 @@
+|  CodeQuality  |
+|:-------------:|
+|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6b2abb818f2c47a5b81e5529f6fc0dcf)](https://www.codacy.com/gh/Vivekanandbs/M2_EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vivekanandbs/M2_EmbSys&amp;utm_campaign=Badge_Grade) |
+
 # Water level monitoring and controlling Project
 
 ## Introduction 

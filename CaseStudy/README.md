@@ -1,5 +1,7 @@
 # Case study on Water level monitoring and Control system 
 
+![Emb_sys_proj](https://user-images.githubusercontent.com/47130828/157209974-56905f57-173c-402a-956e-a71aa4377a5c.PNG)
+
 ### Microcontroller
 - Performs all operations required by our system. It takes distance as input and controls the gate and buzzer when the threshold is crossed.
 

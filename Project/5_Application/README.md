@@ -1,16 +1,9 @@
-# Case study on Water level monitoring and Control system 
-
-![Emb_sys_proj](https://user-images.githubusercontent.com/47130828/157209974-56905f57-173c-402a-956e-a71aa4377a5c.PNG)
-
 # Application Of Water level monitoring and controlling 
 
 - Can be used in water reservoirs to control water levels.
 - Can be used in factories, commercial complexes, apartments, homes.
 - Helps to keep track of water level.
 - Automattion helps in ease of work and maintenance.
-
-## Microcontroller
-- Performs all operations required by our system. It takes distance as input and controls the gate and buzzer when the threshold is crossed.
 
 ## Application of Arduino Uno
 
@@ -19,9 +12,6 @@
 - Can be used for HomeAutomation.
 - Its used in IoT based projects.
 
-## A Ultrasonic sensor(water proof)
-- An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves.
-
 ## Application of Ultrasonic sensor(HC-SR04)
 
 - They are used within food and beverage to measure liquid level in bottles.
@@ -29,17 +19,13 @@
 - can be used for Detecting breaks in threads or wires.
 - used for counting people/people detection.
 
-## A stepper motor
-- A stepper motor is a brushless DC electric motor that divides a full rotation into a number of equal steps. In this project it is used as a refence to gates of dam.
-
 ## Application of servo motor
 - Used in Robotics.
 - Used with Conveyor Belts.
 - Used for Camera Auto Focus.
 - Used in Antenna positioning. 
-- Used in printers, Automatic doors etc.
+- Used in printers, Automatic doors etc. 
 
-## LCD 
 
 ## Applications of LCD(Liquid Crystal Display)
 
@@ -50,22 +36,3 @@
 - Mostly the computer monitor is made up of LCD.
 - It is used in instrumental panel where all the lab instruments uses LCD screens for display.
 - The LCD's are used in all digital wrist watches for displaying time.
-
-## Buzzer
-- It is basically a tiny speaker and makes a beep sound, in this project it's used as alarm.
-
-## Requirments:
-- System: micro controller.
-- Sub system: motion sensor, Actuator.
-
-### High Level Requirements
-- To get waterlevel of dam using ultrasonic sensors.
-- To make decisions whether to turn ON/OFF the gate. 
-
-### Low level requirments:
-- Send and Receive signal from sensor.
-- Calculate level.
-- Switches to turn ON/OFF the system.
-- Power Supply to the Microcontroller, Sensors and Actuators.
-
-

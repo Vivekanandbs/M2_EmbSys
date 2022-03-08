@@ -18,6 +18,7 @@
 | LR04_HR03   | Buzzer and Blink LED when the gate is opened       |
 
 
+
 ## SWOT analysis
 
 ### Strength
@@ -35,6 +36,8 @@
 
 ### Threats 
 - Misfunctioning of the system might cause disasters.
+
+
 
 ## 4W's & 1H
 
